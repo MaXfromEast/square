@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square", "Square\Square.csproj", "{C264AB4D-0F21-4F4A-9944-8DD303304934}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculation", "Calculation\Calculation.csproj", "{744254BA-076C-4B66-881F-6D6F31CB3168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square.Tests", "Square.Tests\Square.Tests.csproj", "{B6CDFD03-3D75-4104-8D55-378D36B41AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C264AB4D-0F21-4F4A-9944-8DD303304934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C264AB4D-0F21-4F4A-9944-8DD303304934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C264AB4D-0F21-4F4A-9944-8DD303304934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C264AB4D-0F21-4F4A-9944-8DD303304934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744254BA-076C-4B66-881F-6D6F31CB3168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744254BA-076C-4B66-881F-6D6F31CB3168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744254BA-076C-4B66-881F-6D6F31CB3168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744254BA-076C-4B66-881F-6D6F31CB3168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CDFD03-3D75-4104-8D55-378D36B41AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CDFD03-3D75-4104-8D55-378D36B41AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CDFD03-3D75-4104-8D55-378D36B41AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CDFD03-3D75-4104-8D55-378D36B41AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCF1370-B59F-4275-96CA-5C071C873230}
+	EndGlobalSection
+EndGlobal
